@@ -1,0 +1,54 @@
+a:link, a:visited
+	{ 
+		background-color: lightcoral;
+		color: whitesmoke;
+		padding: 15px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 10px;
+	}
+
+a:hover
+	{
+		background-color: lightsalmon;
+	}
+
+h1
+	{
+		font-family: 'Rye', cursive;
+		background-color: : white;
+		color: coral;
+		font-size: 60px;
+	}
+
+h2
+	{
+		font-family: 'Cinzel', serif;
+		background-color: : white;
+		color: indianred;
+		font-size: 50px;
+	}
+
+h3
+	{
+		font-family: 'Dancing Script', cursive;
+		background-color: : white;
+		font-size: 30px;
+	}
+
+h4
+	{
+		font-family: 'Lobster Two', cursive;
+		background-color: : white;
+		font-size: 20px;
+	}
+
+p
+	{
+		font-family: 'Special Elite', cursive;
+		background-color: : white;
+		font-size: 15px;
+		text-align: justify;
+	}
+
